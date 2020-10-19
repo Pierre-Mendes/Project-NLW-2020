@@ -3,7 +3,7 @@ Projeto criado para desenvolvimento e acompanhamento do projeto da semana NLW3 d
 
 ## Tarefas
 
-O controle de manutenção das tarefas desse projeto será feito pelo GitHub com auxílio do Figma
+O controle de manutenção das tarefas desse projeto será feito pelo GitHub com auxílio do Figma, Leaflet.js
  
 ## Icones 
 
