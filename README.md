@@ -1,5 +1,5 @@
 # Project-NLW-2020
-Projeto criado para desenvolvimento e acompanhamento do projeto da semana NLW3 do canal Rocketseat!
+Projeto criado para desenvolvimento e acompanhamento do projeto da semana NLW3!
 
 ## Tarefas
 
